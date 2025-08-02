@@ -20,7 +20,7 @@ I'm a passionate Computer Science student who loves building meaningful digital 
 ## 💡 Projects I'm Proud Of
 
 - **CrimeLink AI**: An AI-powered crime analysis and criminal network mapping system
-- 
+- **CODE KARMA'S PROJECT>> COMMING SOON**
 - **More coming soon...**
 
 ---
