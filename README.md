@@ -20,6 +20,7 @@ I'm a passionate Computer Science student who loves building meaningful digital 
 ## 💡 Projects I'm Proud Of
 
 - **CrimeLink AI**: An AI-powered crime analysis and criminal network mapping system
+- **Environmental Twin**: An simulation where environment can afffect the trajectory of the bullet
 - **CODE KARMA'S PROJECT>> COMING SOON**
 - **More coming soon...**
 
