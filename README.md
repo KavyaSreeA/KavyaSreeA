@@ -21,6 +21,7 @@ I'm a passionate Computer Science student who loves building meaningful digital 
 
 - **CrimeLink AI**: An AI-powered crime analysis and criminal network mapping system
 - **Environmental Twin**: An simulation where environment can afffect the trajectory of the bullet
+- - **SPARK-AI**: An Gemini powered GPT for road safety audit 
 - **CODE KARMA'S PROJECT>> COMING SOON**
 - **More coming soon...**
 
