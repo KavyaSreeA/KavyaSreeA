@@ -9,6 +9,7 @@ I'm a passionate Computer Science student who loves building meaningful digital 
 ## 🚀 About Me
 
 - Currently a **2st year CSE student**
+- **SIH 2025WINNER**
 - Winner of multiple **design and ideathon** events
 - Actively learning **Frontend and Backend Development**  
 - Have a strong **foundation in Full Stack Development** and **Machine Learning**
