@@ -42,8 +42,6 @@ I'm a passionate Computer Science student who loves building meaningful digital 
 
 ---
 
----
-
 ## 📫 Let's Connect
 
 - **LinkedIn**: www.linkedin.com/in/kavya-sree-a-58b39431b
