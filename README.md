@@ -24,6 +24,7 @@ I'm a passionate Computer Science student who loves building meaningful digital 
 - **Environmental Twin**: An simulation where environment can afffect the trajectory of the bullet
 - **SPARK-AI**: An Gemini powered GPT for road safety audit.
 - **Alchemy-AI**: created a digital twin.
+- **SUS-AI**: Comming soon
 - **CODE KARMA'S PROJECT>> COMING SOON**
 - **More coming soon...**
 
