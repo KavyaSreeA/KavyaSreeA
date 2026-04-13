@@ -1,52 +1,78 @@
-# Hi, I'm KAVYA  —  FREELANCER | Full Stack Developer | craze in ML
+# 👋 Hi, I'm Kavya  
+### 🚀 Freelancer | Full Stack Developer | ML Enthusiast  
 
-Welcome to my GitHub profile!
-
-I'm a passionate Computer Science student who loves building meaningful digital experiences. I thrive on challenges, especially in UI/UX design, AI-powered solutions, and full-stack web development. Whether it's designing inclusive interfaces or solving real-world problems with code, I bring creativity and logic together.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github" />
+</p>
 
 ---
 
-## 🚀 About Me
-
-- Currently a **2st year CSE student**
-- **SIH 2025 WINNER**
-- Winner of multiple **design and ideathon** events
-- Actively learning **Frontend and Backend Development**  
-- Have a strong **foundation in Full Stack Development** and **Machine Learning**
-- Exploring **Web Dev**, **Generative AI**, and **accessible tech solutions**
-- Passionate about building **inclusive, real-world applications**
+## 🌟 About Me
+- 🎓 2nd Year Computer Science Engineering Student  
+- 🏆 **SIH 2025 Winner**  
+- 🥇 Winner of multiple **Design & Ideathon competitions**  
+- 💻 Passionate about **Full Stack Development & AI**  
+- 🤖 Exploring **Machine Learning, Generative AI & Accessibility Tech**  
+- 🎯 Focused on building **real-world impactful applications**  
 
 ---
 
 ## 💡 Projects I'm Proud Of
 
-- **CrimeLink AI**: An AI-powered crime analysis and criminal network mapping system
-- **Environmental Twin**: An simulation where environment can afffect the trajectory of the bullet
-- **SPARK-AI**: An Gemini powered GPT for road safety audit.
-- **Alchemy-AI**: created a digital twin
-- **SUS-AI**: A fun - beginner based cyber project (first ever project)
-- **CODE KARMA'S PROJECT>> COMING SOON**
-- **More coming soon...**
+### 🔍 CrimeLink AI  
+> AI-powered crime analysis & criminal network mapping system  
+
+### 🌍 Environmental Twin  
+> Simulation showing how environmental factors affect bullet trajectory  
+
+### 🚦 SPARK-AI  
+> Gemini-powered GPT for road safety audits  
+
+### 🧪 Alchemy-AI  
+> Digital twin creation project  
+
+### 🔐 SUS-AI  
+> Beginner-friendly cybersecurity project  
+
+🚀 *More innovative projects coming soon...*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**:  
-`C`  `Python` `HTML` `CSS` `JavaScript` `SQL` 
+### 👨‍💻 Languages  
+`C` `Python` `HTML` `CSS` `JavaScript` `SQL`
 
-**Tools & Frameworks**:  
-`Figma` `FlutterFlow` 
+### ⚙️ Tools & Frameworks  
+`Figma` `FlutterFlow` `Git` `GitHub`
 
-**Currently Learning**:  
-`Frontend & Backend` | `Machine Learning` | `Web Dev with IBM` | `Version Control`
+### 📚 Currently Learning  
+- Full Stack Development (Frontend + Backend)  
+- Machine Learning  
+- Web Development (IBM Track)  
+- Version Control & DevOps Basics  
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
 
-- **LinkedIn**: www.linkedin.com/in/kavya-sree-a-58b39431b
-- **Portfolio**:https://kavyasreeportfolio.netlify.app/
-- **Email**: kavyaarunbalaji@gmail.com
+---
 
-Thanks for stopping by!
+## 🌐 Let's Connect
+
+- 💼 LinkedIn: [kavya-sree](https://www.linkedin.com/in/kavya-sree-a-58b39431b)  
+- 🌍 Portfolio: [My Portfolio](https://kavyasreeportfolio.netlify.app/)  
+- 📧 Email: kavyaarunbalaji@gmail.com  
+
+---
+
+## ✨ Quote I Live By
+> "Build. Break. Learn. Repeat."
+
+---
+
+⭐️ *Thanks for visiting my profile!*
