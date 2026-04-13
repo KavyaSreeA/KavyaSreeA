@@ -103,6 +103,16 @@ status     : Open to Collaborations & Freelance Projects
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
 </p>
 
+### 🗓️ Contribution Activity
+
+| Year | Contributions | Highlight |
+|------|--------------|-----------|
+| 2026 (last 12 months) | **185** | Most active year — hackathons & projects! 🚀 |
+| 2025 | **77** | SIH 2025 win + design events 🏆 |
+| 2024 | **2** | Just getting started 🌱 |
+
+> 📈 **185 contributions** in the last year and growing — every commit tells a story!
+
 ---
 
 ## 📫 Let's Connect
@@ -120,6 +130,12 @@ status     : Open to Collaborations & Freelance Projects
     <img src="https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+</p>
+
+<p align
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
