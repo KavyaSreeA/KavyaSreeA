@@ -1,42 +1,112 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kavya+Sree!+👋;Full+Stack+Developer+%7C+ML+Enthusiast;SIH+2025+Winner+🏆;Building+inclusive+real-world+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kavya+Sree!+👋;Full+Stack+Developer+%7C+ML+Enthusiast;SIH+2025+Winner+🏆;Building+real-world+AI+solutions!" />
 </h1>
 
 <p align="center">
-  <strong>Freelancer · Full Stack Developer · ML Enthusiast · CSE 2nd Year</strong>
+  <strong>Freelancer · Full Stack Developer · ML Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SIH_2025-Winner-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-Enthusiast-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kavyasreeportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:kavyaarunbalaji@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```yaml
-name       : Kavya Sree A
-role       : Full Stack Developer | ML Enthusiast | UI/UX Designer
-education  : 2nd Year CSE Student
-achievement: SIH 2025 Winner 🏆 | Multiple Design & Ideathon Winner
-interests  : Web Dev · Generative AI · Accessible Tech · Inclusive Design
-status     : Open to Collaborations & Freelance Projects
+- 🎓 2nd Year CSE Student  
+- 🏆 **SIH 2025 Winner**  
+- 💻 Full Stack Developer + ML Explorer  
+- 🌍 Focused on **real-world problem solving using AI**  
+- 🎯 Goal: Crack top tech companies (MAANG-level)
+
+---
+
+## 💼 Featured Projects
+
+### 🔴 CrimeLink AI  
+AI-powered crime analysis & criminal network mapping system  
+
+<img src="https://via.placeholder.com/800x400?text=CrimeLink+AI+Demo" />
+
+**What it does**
+- Detects patterns in crime data  
+- Builds criminal network graphs  
+- Helps law enforcement insights  
+
+**Tech Used**
+`Python` `ML` `Graph Algorithms`  
+
+🔗 Demo: _Add link here_  
+📂 Repo: _Add link here_  
+
+---
+
+### 🟢 SPARK-AI  
+Gemini-powered GPT for road safety audits  
+
+<img src="https://via.placeholder.com/800x400?text=SPARK-AI+Demo" />
+
+**What it does**
+- Analyzes road conditions  
+- Suggests safety improvements  
+- AI-powered auditing system  
+
+**Tech Used**
+`Gemini API` `AI`  
+
+---
+
+### 🔵 Environmental Twin  
+Simulation of bullet trajectory under environmental conditions  
+
+<img src="https://via.placeholder.com/800x400?text=Environmental+Twin" />
+
+**What it does**
+- Simulates physics-based trajectory  
+- Considers wind, environment, etc  
+
+**Tech Used**
+`Simulation` `Physics Logic`  
+
+---
+
+### 🟣 Alchemy-AI  
+Digital twin creation platform  
+
+<img src="https://via.placeholder.com/800x400?text=Alchemy-AI" />
+
+---
+
+### 🟡 SUS-AI  
+Beginner cybersecurity project  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`C` `Python` `JavaScript` `SQL`
+
+**Frontend**  
+`HTML` `CSS` `React`
+
+**Tools**  
+`Git` `GitHub` `Figma` `FlutterFlow`
+
+**Learning**  
+`Node.js` `Machine Learning`
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/kavya-sree-a-58b39431b  
+- Portfolio: https://kavyasreeportfolio.netlify.app/  
+- Email: kavyaarunbalaji@gmail.com  
+
+---
+
+<p align="center">
+  <b>🚀 Build real projects. That’s what gets you hired.</b>
+</p>
