@@ -26,9 +26,6 @@
 
 ### 🔴 CrimeLink AI  
 AI-powered crime analysis & criminal network mapping system  
-
-<img src="https://via.placeholder.com/800x400?text=CrimeLink+AI+Demo" />
-
 **What it does**
 - Detects patterns in crime data  
 - Builds criminal network graphs  
@@ -36,16 +33,10 @@ AI-powered crime analysis & criminal network mapping system
 
 **Tech Used**
 `Python` `ML` `Graph Algorithms`  
-
-🔗 Demo: _Add link here_  
-📂 Repo: _Add link here_  
-
 ---
 
 ### 🟢 SPARK-AI  
 Gemini-powered GPT for road safety audits  
-
-<img src="https://via.placeholder.com/800x400?text=SPARK-AI+Demo" />
 
 **What it does**
 - Analyzes road conditions  
@@ -60,8 +51,6 @@ Gemini-powered GPT for road safety audits
 ### 🔵 Environmental Twin  
 Simulation of bullet trajectory under environmental conditions  
 
-<img src="https://via.placeholder.com/800x400?text=Environmental+Twin" />
-
 **What it does**
 - Simulates physics-based trajectory  
 - Considers wind, environment, etc  
@@ -73,13 +62,6 @@ Simulation of bullet trajectory under environmental conditions
 
 ### 🟣 Alchemy-AI  
 Digital twin creation platform  
-
-<img src="https://via.placeholder.com/800x400?text=Alchemy-AI" />
-
----
-
-### 🟡 SUS-AI  
-Beginner cybersecurity project  
 
 ---
 
