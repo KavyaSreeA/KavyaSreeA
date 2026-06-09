@@ -14,11 +14,12 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year CSE Student  
+- 🎓 3nd Year CSE Student  
 - 🏆 **SIH 2025 Winner**  
 - 💻 Full Stack Developer + ML Explorer  
 - 🌍 Focused on **real-world problem solving using AI**  
 - 🎯 Goal: Crack top tech companies (MAANG-level)
+- AI Agents and Automation engineer 
 
 ---
 
@@ -61,24 +62,7 @@ Simulation of bullet trajectory under environmental conditions
 ---
 
 ### 🟣 Alchemy-AI  
-Digital twin creation platform  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-`C` `Python` `JavaScript` `SQL`
-
-**Frontend**  
-`HTML` `CSS` `React`
-
-**Tools**  
-`Git` `GitHub` `Figma` `FlutterFlow`
-
-**Learning**  
-`Node.js` `Machine Learning`
-
+Digital twin creation platform  - on progress
 ---
 
 ## 📫 Connect
