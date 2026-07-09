@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kavya+Sree!+%F0%9F%91%8B;SIH+2025+Winner+%F0%9F%8F%86;Full+Stack+Developer+%7C+ML+Enthusiast;AI+Agents+%26+Automation+Engineer+%F0%9F%A4%96;Building+real-world+AI+solutions+%F0%9F%9A%80;Aiming+for+MAANG+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kavya+Sree!+%F0%9F%91%8B;SIH+2025+Winner+%F0%9F%8F%86;Full+Stack+Developer+%7C+ML+Enthusiast;AI+Agents+%26+Automation+Engineer+%F0%9F%A4%96;Building+real-world+AI+solutions+%F0%9F%9A%80;Aiming+for+MAANG+%F0%9F%8E%AF" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -155,7 +155,7 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Build+real+projects.;That's+what+gets+you+hired.+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Build+real+projects.;That's+what+gets+you+hired.+%F0%9F%92%AA" />
 </div>
 
 <div align="center">
