@@ -1,78 +1,163 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:58a6ff&height=200&section=header&text=Kavya%20Sree%20A&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20AI%20Agent%20Builder&descSize=18&descAlignY=55" width="100%"/>
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kavya+Sree!+👋;Full+Stack+Developer+%7C+ML+Enthusiast;SIH+2025+Winner+🏆;Building+real-world+AI+solutions!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kavya+Sree!+%F0%9F%91%8B;SIH+2025+Winner+%F0%9F%8F%86;Full+Stack+Developer+%7C+ML+Enthusiast;AI+Agents+%26+Automation+Engineer+%F0%9F%A4%96;Building+real-world+AI+solutions+%F0%9F%9A%80;Aiming+for+MAANG+%F0%9F%8E%AF" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Freelancer · Full Stack Developer · ML Enthusiast</strong>
+  <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kavyasreeportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:kavyaarunbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KavyaSreeA&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
 
-## 🚀 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif"/>
 
-- 🎓 3nd Year CSE Student  
-- 🏆 **SIH 2025 Winner**  
-- 💻 Full Stack Developer + ML Explorer  
-- 🌍 Focused on **real-world problem solving using AI**  
-- 🎯 Goal: Crack top tech companies (MAANG-level)
-- AI Agents and Automation engineer 
+```yaml
+name: Kavya Sree A
+role: Full Stack Developer & ML Enthusiast
+education: 3rd Year CSE Student
+achievement: SIH 2025 Winner 🏆
+focus: Real-world problem solving using AI
+current: AI Agents & Automation Engineering
+goal: Crack top tech companies (MAANG-level)
+fun_fact: I turn coffee into AI agents ☕→🤖
+```
 
----
+- 🏆 **Smart India Hackathon 2025 Winner**
+- 🤖 Building **AI Agents & Automation** systems
+- 🌍 Focused on **real-world problem solving using AI**
+- 💡 Always exploring what's next in ML & GenAI
 
-## 💼 Featured Projects
+<br clear="right"/>
 
-### 🔴 CrimeLink AI  
-AI-powered crime analysis & criminal network mapping system  
-**What it does**
-- Detects patterns in crime data  
-- Builds criminal network graphs  
-- Helps law enforcement insights  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Tech Used**
-`Python` `ML` `Graph Algorithms`  
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
 
-### 🟢 SPARK-AI  
-Gemini-powered GPT for road safety audits  
+<div align="center">
 
-**What it does**
-- Analyzes road conditions  
-- Suggests safety improvements  
-- AI-powered auditing system  
+### 💻 Languages & Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python&theme=dark" />
 
-**Tech Used**
-`Gemini API` `AI`  
+### ⚙️ Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode&theme=dark" />
 
----
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
-### 🔵 Environmental Twin  
-Simulation of bullet trajectory under environmental conditions  
+</div>
 
-**What it does**
-- Simulates physics-based trajectory  
-- Considers wind, environment, etc  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Tech Used**
-`Simulation` `Physics Logic`  
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-### 🟣 Alchemy-AI  
-Digital twin creation platform  - on progress
----
+### 🔴 CrimeLink AI
+> AI-powered crime analysis & criminal network mapping
 
-## 📫 Connect
+- 🕵️ Detects patterns in crime data
+- 🕸️ Builds criminal network graphs
+- 🚔 Powers law-enforcement insights
 
-- LinkedIn: https://www.linkedin.com/in/kavya-sree-a-58b39431b  
-- Portfolio: https://kavyasreeportfolio.netlify.app/  
-- Email: kavyaarunbalaji@gmail.com  
+`Python` `ML` `Graph Algorithms`
 
----
+</td>
+<td width="50%">
 
-<p align="center">
-  <b>🚀 Build real projects. That’s what gets you hired.</b>
-</p>
+### 🟢 SPARK-AI
+> Gemini-powered GPT for road safety audits
+
+- 🛣️ Analyzes road conditions
+- ⚠️ Suggests safety improvements
+- 🤖 AI-powered auditing system
+
+`Gemini API` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔵 Environmental Twin
+> Physics-based bullet trajectory simulation
+
+- 🎯 Simulates trajectory under real conditions
+- 🌬️ Models wind & environmental factors
+
+`Simulation` `Physics Logic`
+
+</td>
+<td width="50%">
+
+### 🟣 Alchemy-AI
+> Digital twin creation platform
+
+- 🧪 Building digital twins of real systems
+- 🚧 **In progress** — watch this space!
+
+`AI` `Digital Twins`
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KavyaSreeA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaSreeA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KavyaSreeA&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bf91f3&currStreakLabel=58a6ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreeA&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=bf91f3&point=ffffff" width="95%" />
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KavyaSreeA&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KavyaSreeA/KavyaSreeA/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://kavyasreeportfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-bf91f3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:kavyaarunbalaji@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Build+real+projects.;That's+what+gets+you+hired.+%F0%9F%92%AA" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b4b,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
