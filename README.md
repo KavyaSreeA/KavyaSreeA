@@ -116,8 +116,8 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KavyaSreeA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaSreeA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats-ucxd-i7oyg9flu.vercel.app/api?username=KavyaSreeA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&count_private=true" />
+  <img height="170" src="https://github-readme-stats-ucxd-i7oyg9flu.vercel.app/api/top-langs/?username=KavyaSreeA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </div>
 
 <div align="center">
@@ -126,12 +126,6 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreeA&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=bf91f3&point=ffffff" width="95%" />
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KavyaSreeA&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
