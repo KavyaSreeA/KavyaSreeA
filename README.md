@@ -1,23 +1,27 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:58a6ff&height=200&section=header&text=Kavya%20Sree%20A&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20AI%20Agent%20Builder&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:58a6ff&height=220&section=header&text=Kavya%20Sree%20A&fontSize=58&fontColor=58a6ff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20AI%20Agent%20Builder&descSize=18&descAlignY=54" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kavya+Sree!+%F0%9F%91%8B;SIH+2025+Winner+%F0%9F%8F%86;Full+Stack+Developer+%7C+ML+Enthusiast;AI+Agents+%26+Automation+Engineer+%F0%9F%A4%96;Building+real-world+AI+solutions+%F0%9F%9A%80;Aiming+for+MAANG+%F0%9F%8E%AF" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Kavya+Sree!+%F0%9F%91%8B;SIH+2025+Winner+%F0%9F%8F%86;Full+Stack+Developer+%7C+ML+Enthusiast;AI+Agents+%26+Automation+Engineer+%F0%9F%A4%96;Building+real-world+AI+solutions+%F0%9F%9A%80;Aiming+for+MAANG+%F0%9F%8E%AF" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kavyasreeportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="mailto:kavyaarunbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=KavyaSreeA&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+<!-- ABOUT -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 
 ```yaml
 name: Kavya Sree A
@@ -27,40 +31,46 @@ achievement: SIH 2025 Winner 🏆
 focus: Real-world problem solving using AI
 current: AI Agents & Automation Engineering
 goal: Crack top tech companies (MAANG-level)
-fun_fact: I turn coffee into AI agents ☕→🤖
+fun_fact: I turn coffee into AI agents ☕ → 🤖
 ```
 
-- 🏆 **Smart India Hackathon 2025 Winner**
-- 🤖 Building **AI Agents & Automation** systems
-- 🌍 Focused on **real-world problem solving using AI**
-- 💡 Always exploring what's next in ML & GenAI
+- 🏆 &nbsp;**Smart India Hackathon 2025 Winner**
+- 🤖 &nbsp;Building **AI Agents & Automation** systems
+- 🌍 &nbsp;Focused on **real-world problem solving using AI**
+- 🌱 &nbsp;Currently deep-diving into **GenAI & Agentic workflows**
+- 💬 &nbsp;Ask me about **Full Stack, ML, or AI Agents**
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
+<!-- TECH STACK -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frontend
+**💻 &nbsp;Languages & Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python&theme=dark" />
 
-### ⚙️ Backend & Tools
+**⚙️ &nbsp;Backend & Tools**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode&theme=dark" />
 
-### 🧠 AI / ML
+**🧠 &nbsp;AI / ML**
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Featured Projects
+<!-- PROJECTS -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔴 CrimeLink AI
 > AI-powered crime analysis & criminal network mapping
@@ -69,10 +79,10 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 - 🕸️ Builds criminal network graphs
 - 🚔 Powers law-enforcement insights
 
-`Python` `ML` `Graph Algorithms`
+`Python` &nbsp;`ML` &nbsp;`Graph Algorithms`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🟢 SPARK-AI
 > Gemini-powered GPT for road safety audits
@@ -81,12 +91,12 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 - ⚠️ Suggests safety improvements
 - 🤖 AI-powered auditing system
 
-`Gemini API` `AI`
+`Gemini API` &nbsp;`AI`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔵 Environmental Twin
 > Physics-based bullet trajectory simulation
@@ -94,10 +104,10 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 - 🎯 Simulates trajectory under real conditions
 - 🌬️ Models wind & environmental factors
 
-`Simulation` `Physics Logic`
+`Simulation` &nbsp;`Physics Logic`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🟣 Alchemy-AI
 > Digital twin creation platform
@@ -105,7 +115,7 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 - 🧪 Building digital twins of real systems
 - 🚧 **In progress** — watch this space!
 
-`AI` `Digital Twins`
+`AI` &nbsp;`Digital Twins`
 
 </td>
 </tr>
@@ -113,7 +123,8 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Stats
+<!-- STATS -->
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-ucxd-i7oyg9flu.vercel.app/api?username=KavyaSreeA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&count_private=true" />
@@ -128,8 +139,7 @@ fun_fact: I turn coffee into AI agents ☕→🤖
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreeA&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=bf91f3&point=ffffff" width="95%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- SNAKE -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -138,7 +148,13 @@ fun_fact: I turn coffee into AI agents ☕→🤖
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</div>
+
+<!-- CONNECT -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
