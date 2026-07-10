@@ -1,11 +1,11 @@
-<!-- ===== HEADER ===== -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b4b,100:58a6ff&height=210&section=header&text=Kavya%20Sree%20A&fontSize=54&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=%3E%20building%20AI%20agents%20that%20solve%20real%20problems&descSize=16&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:58a6ff&height=200&section=header&text=Kavya%20Sree%20A&fontSize=56&fontColor=58a6ff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20AI%20Agent%20Builder&descSize=17&descAlignY=56" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=%24+whoami+-%3E+Kavya+Sree+A+%F0%9F%91%8B;Full+Stack+Developer+%2B+AI+Agent+Builder+%F0%9F%A4%96;SIH+2025+Winner+%F0%9F%8F%86;Turning+coffee+into+intelligent+systems+%E2%98%95%E2%86%92%F0%9F%A4%96;Loading+MAANG.exe...+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Kavya+Sree+%F0%9F%91%8B;SIH+2025+Winner+%F0%9F%8F%86;Full+Stack+Developer+%7C+ML+Enthusiast;AI+Agents+%26+Automation+Engineer+%F0%9F%A4%96;Building+real-world+AI+solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,128 +13,95 @@
   <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kavyasreeportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="mailto:kavyaarunbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KavyaSreeA&style=for-the-badge&color=58a6ff&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=KavyaSreeA&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
 
-<!-- ===== WHOAMI TERMINAL ===== -->
-```bash
-kavya@dev:~$ whoami
+<!-- ABOUT -->
+## 👩‍💻 About Me
 
-  → Kavya Sree A · 3rd-year CSE undergrad · Full Stack + ML
-  → Smart India Hackathon 2025 Winner 🏆
-
-kavya@dev:~$ cat focus.txt
-
-  → Designing AI agents & automation for real-world impact
-  → Deep-diving GenAI and agentic workflows
-
-kavya@dev:~$ ./goal --run
-
-  → Landing a MAANG-level engineering role 🎯  [ status: in progress ]
-```
+- 🏆 &nbsp;**Smart India Hackathon 2025 Winner**
+- 🎓 &nbsp;3rd-year **Computer Science** undergraduate
+- 🤖 &nbsp;Building **AI Agents & Automation** systems that solve real problems
+- 🌱 &nbsp;Currently deep-diving into **GenAI & Agentic workflows**
+- 🎯 &nbsp;Aiming for **MAANG-level** software & ML roles
+- 💬 &nbsp;Ask me about **Full Stack Development, Machine Learning, or AI Agents**
 
 <br/>
 
-<!-- ===== TECH STACK ===== -->
-## ⚡ Tech Stack
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages & Frontend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react&theme=dark" />
 
-**Frontend & Backend**
+**Backend & Tools**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode&theme=dark" />
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
 </div>
 
 <br/>
 
-<!-- ===== PROJECTS ===== -->
-## 🧪 Featured Builds
+<!-- PROJECTS -->
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔴 CrimeLink AI</h3>
+### 🔴 CrimeLink AI
+AI-powered crime analysis & criminal network mapping.
 
-Maps criminal networks and surfaces hidden patterns in crime data to power law-enforcement insights.
+- Detects patterns in crime data
+- Builds criminal network graphs
+- Powers law-enforcement insights
 
-<sub>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine_Learning-bf91f3?style=flat-square)
-![Graphs](https://img.shields.io/badge/-Graph_Algorithms-58a6ff?style=flat-square)
-
-</sub>
+**`Python`** &nbsp;**`ML`** &nbsp;**`Graph Algorithms`**
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🟢 SPARK-AI</h3>
+### 🟢 SPARK-AI
+Gemini-powered assistant for road-safety audits.
 
-Gemini-powered assistant that audits road conditions and recommends safety improvements automatically.
+- Analyzes road conditions
+- Suggests safety improvements
+- AI-driven auditing system
 
-<sub>
-
-![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-58a6ff?style=flat-square)
-
-</sub>
+**`Gemini API`** &nbsp;**`AI`**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔵 Environmental Twin</h3>
+### 🔵 Environmental Twin
+Physics-based bullet-trajectory simulation.
 
-Physics-based simulation of bullet trajectory that models wind and real-world environmental factors.
+- Simulates trajectory under real conditions
+- Models wind & environmental factors
 
-<sub>
-
-![Simulation](https://img.shields.io/badge/-Simulation-bf91f3?style=flat-square)
-![Physics](https://img.shields.io/badge/-Physics-58a6ff?style=flat-square)
-
-</sub>
+**`Simulation`** &nbsp;**`Physics`**
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🟣 Alchemy-AI &nbsp;<img src="https://img.shields.io/badge/-in_progress-f0883e?style=flat-square" /></h3>
+### 🟣 Alchemy-AI
+Digital-twin creation platform. *(In progress)*
 
-A platform for creating digital twins of real-world systems. Actively building — watch this space! 🚧
+- Building digital twins of real systems
+- Watch this space! 🚧
 
-<sub>
-
-![AI](https://img.shields.io/badge/-AI-58a6ff?style=flat-square)
-![Digital Twins](https://img.shields.io/badge/-Digital_Twins-bf91f3?style=flat-square)
-
-</sub>
+**`AI`** &nbsp;**`Digital Twins`**
 
 </td>
 </tr>
@@ -142,8 +109,8 @@ A platform for creating digital twins of real-world systems. Actively building �
 
 <br/>
 
-<!-- ===== STATS ===== -->
-## 📊 GitHub Activity
+<!-- STATS -->
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-ucxd-i7oyg9flu.vercel.app/api?username=KavyaSreeA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f3&count_private=true" />
@@ -160,8 +127,8 @@ A platform for creating digital twins of real-world systems. Actively building �
 
 <br/>
 
-<!-- ===== SNAKE ===== -->
-## 🐍 Watch My Contributions Get Eaten
+<!-- SNAKE -->
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KavyaSreeA/KavyaSreeA/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -169,17 +136,8 @@ A platform for creating digital twins of real-world systems. Actively building �
 
 <br/>
 
-<!-- ===== MOTTO ===== -->
-<div align="center">
-
-> ### *"Don't just learn to code — build things that matter."* 🚀
-
-</div>
-
-<br/>
-
-<!-- ===== CONNECT ===== -->
-## 🤝 Let's Build Something
+<!-- CONNECT -->
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -190,5 +148,5 @@ A platform for creating digital twins of real-world systems. Actively building �
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,50:1a1b4b,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b4b,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
