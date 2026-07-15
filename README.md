@@ -178,7 +178,7 @@ class KavyaSree:
 
 <!-- ══════════════════════════════ QUOTE ══════════════════════════════ -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=99999&color=58A6FF&center=true&vCenter=true&width=780&lines=%22Even+if+there+is+one+percent+chance%2C+win+it.%22" alt="motto" />
 </div>
 
 <br/>
