@@ -1,59 +1,95 @@
-<!-- ═══════════════════════════════════ HEADER ═══════════════════════════════════ -->
-<h1 align="center">Hi, I'm Kavya Sree A 👋</h1>
-
-<p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>ML Enthusiast</b> &nbsp;·&nbsp; <b>AI Agent Builder</b>
-</p>
+<!-- ═══════════════════════════════════ HERO ═══════════════════════════════════ -->
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Kavya Sree A — Full-Stack Developer · ML Enthusiast · AI Agent Builder" />
+</div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=%F0%9F%8F%86+Smart+India+Hackathon+2025+Winner;Building+real-world+AI+agents+%26+automation;Full-Stack+%C2%B7+Machine+Learning+%C2%B7+GenAI;Chasing+a+MAANG-level+SWE+%2F+ML+role" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Turning+messy+problems+into+working+AI+systems;Building+AI+agents+%26+automation+that+ship;Full-Stack+%C2%B7+Machine+Learning+%C2%B7+GenAI;Chasing+a+MAANG-level+SWE+%2F+ML+role" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kavyasreeportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2ea043?style=flat-square&logo=netlify&logoColor=white" /></a>
-  <a href="mailto:kavyaarunbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KavyaSreeA&style=flat-square&color=58a6ff&label=Profile+views" />
+  <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kavyasreeportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:kavyaarunbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KavyaSreeA&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════════════════ ABOUT ═══════════════════════════════════ -->
-## 🚀 About Me
+<!-- ═══════════════════════════════════ WHOAMI ═══════════════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> &nbsp;whoami
 
-I'm a 3rd-year **Computer Science** student who loves turning messy real-world problems into working **AI systems**. Most of my time goes into building **AI agents, automation, and full-stack apps** — and lately, going deep on **GenAI & agentic workflows**.
+<table>
+<tr>
+<td valign="top" width="57%">
 
-- 🏆 &nbsp;**Smart India Hackathon 2025 Winner**
-- 🤖 &nbsp;I build **AI agents & automation** that actually solve problems
-- 🌱 &nbsp;Currently exploring **GenAI, RAG & agentic workflows**
-- 🎯 &nbsp;Working toward a **MAANG-level Software / ML** role
-- 💬 &nbsp;Ask me about **Full-Stack Dev, Machine Learning, or AI Agents**
+```python
+class KavyaSree:
+    """3rd-year CS undergrad · builds AI that ships."""
+
+    def __init__(self):
+        self.role   = "Full-Stack Dev & AI Agent Builder"
+        self.award  = "🏆 SIH 2025 Winner"
+        self.focus  = ["GenAI", "RAG", "Agentic Workflows"]
+        self.goal   = "MAANG-level SWE / ML role 🎯"
+
+    def ask_me_about(self):
+        return ["Full-Stack", "Machine Learning", "AI Agents"]
+
+    def currently(self):
+        return "🌱 Shipping real-world AI systems"
+```
+
+</td>
+<td valign="top" width="43%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
+
+<sub><i>💻 always shipping something</i></sub>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 ![Focus](https://img.shields.io/badge/Focus-GenAI_&_Agents-bf91f3?style=flat-square&labelColor=161b22)
 ![Learning](https://img.shields.io/badge/Learning-Agentic_Workflows-58a6ff?style=flat-square&labelColor=161b22)
 ![Open to](https://img.shields.io/badge/Open_to-SWE_/_ML_Roles-3fb950?style=flat-square&labelColor=161b22)
+![Based in](https://img.shields.io/badge/Based_in-India-ff7b72?style=flat-square&labelColor=161b22)
 
 </div>
 
----
+<details>
+<summary><b>🔍 &nbsp;More about me</b></summary>
+<br/>
+
+- 🏆 &nbsp;Won **Smart India Hackathon 2025** — India's national flagship hackathon
+- 🤖 &nbsp;I build **AI agents & automation** that solve real, messy problems
+- 🧠 &nbsp;Deep in **GenAI, RAG pipelines, and agentic workflows**
+- 🛠️ &nbsp;Comfortable across the stack — **React → Node → MongoDB → ML**
+- 🎯 &nbsp;Grinding toward a **MAANG-level Software / ML Engineering** role
+- 💬 &nbsp;Ask me about **Full-Stack Dev, Machine Learning, or AI Agents**
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════ TECH ═══════════════════════════════════ -->
-## 🧰 Tech Stack
+## 🧰 &nbsp;Tech Arsenal
 
 <table align="center">
   <tr>
-    <td align="right"><b>Languages</b></td>
+    <td align="right"><b>&nbsp;💻&nbsp; Languages &nbsp;</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Frontend</b></td>
+    <td align="right"><b>&nbsp;🎨&nbsp; Frontend &nbsp;</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -61,7 +97,7 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Backend</b></td>
+    <td align="right"><b>&nbsp;⚙️&nbsp; Backend &nbsp;</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -69,7 +105,7 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
     </td>
   </tr>
   <tr>
-    <td align="right"><b>AI / ML</b></td>
+    <td align="right"><b>&nbsp;🤖&nbsp; AI / ML &nbsp;</b></td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -78,7 +114,7 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Tools</b></td>
+    <td align="right"><b>&nbsp;🛠️&nbsp; Tools &nbsp;</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -87,36 +123,41 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,tensorflow,pytorch,sklearn,git,github,vscode&theme=dark&perline=6" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════ PROJECTS ═══════════════════════════════════ -->
-## 💼 Featured Projects
+## 💼 &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 CrimeLink AI
+### 🔴 &nbsp;CrimeLink AI
 > AI-powered crime analysis & criminal network mapping.
 
-- Detects patterns in crime data
-- Builds criminal network graphs
-- Powers law-enforcement insights
+`🔍` Detects patterns in crime data
+`🕸️` Builds criminal network graphs
+`🛡️` Powers law-enforcement insights
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/-Machine_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Graphs](https://img.shields.io/badge/-Graph_Algorithms-58A6FF?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🟢 SPARK-AI
+### 🟢 &nbsp;SPARK-AI
 > Gemini-powered assistant for road-safety audits.
 
-- Analyzes road conditions
-- Suggests safety improvements
-- AI-driven auditing system
+`🛣️` Analyzes road conditions
+`💡` Suggests safety improvements
+`🤖` AI-driven auditing system
 
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-58A6FF?style=flat-square)
 
 </td>
@@ -124,11 +165,11 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 Environmental Twin
+### 🔵 &nbsp;Environmental Twin
 > Physics-based bullet-trajectory simulation.
 
-- Simulates trajectory under real conditions
-- Models wind & environmental factors
+`🎯` Simulates trajectory under real conditions
+`🌬️` Models wind & environmental factors
 
 ![Simulation](https://img.shields.io/badge/-Simulation-1572B6?style=flat-square)
 ![Physics](https://img.shields.io/badge/-Physics-58A6FF?style=flat-square)
@@ -136,11 +177,11 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
 </td>
 <td width="50%" valign="top">
 
-### 🟣 Alchemy-AI &nbsp;`🚧 In Progress`
+### 🟣 &nbsp;Alchemy-AI &nbsp;`🚧 WIP`
 > Digital-twin creation platform.
 
-- Building digital twins of real systems
-- Watch this space!
+`🧬` Building digital twins of real systems
+`✨` Watch this space!
 
 ![AI](https://img.shields.io/badge/-AI-bf91f3?style=flat-square)
 ![Digital Twins](https://img.shields.io/badge/-Digital_Twins-8E75B2?style=flat-square)
@@ -149,39 +190,36 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════ STATS ═══════════════════════════════════ -->
-## 📊 GitHub Stats
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KavyaSreeA&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bf91f3&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=KavyaSreeA&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bf91f3&currStreakLabel=58a6ff" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreeA&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=bf91f3&point=ffffff&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaSreeA&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=bf91f3&point=ffffff&area=true" width="96%" alt="activity graph" />
 </div>
 
----
-
-<!-- ═══════════════════════════════════ SNAKE ═══════════════════════════════════ -->
-## 🐍 Contribution Snake
+### 🐍 &nbsp;Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KavyaSreeA/KavyaSreeA/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════ MOTTO ═══════════════════════════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=99999&color=58A6FF&center=true&vCenter=true&width=780&lines=%22Even+if+there+is+one+percent+chance%2C+win+it.%22" alt="motto" />
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════════════════ CONNECT ═══════════════════════════════════ -->
-## 🤝 Let's Connect
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kavya-sree-a-58b39431b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -191,4 +229,8 @@ I'm a 3rd-year **Computer Science** student who loves turning messy real-world p
   <a href="mailto:kavyaarunbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<p align="center"><sub>⭐ Thanks for stopping by — let's build something great.</sub></p>
+<br/>
+
+<p align="center">
+  <sub>⭐ <i>Thanks for stopping by — let's build something great.</i></sub>
+</p>
